@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RB  Assist</string>
+    <string name="jiderror">Enter a valid JID</string>
+    <string name="jtitlerror">Enter a valid Job Title</string>
+    <string name="cnameerror">Enter a valid Company Name</string>
+    <string name="descriptionerror">Enter a valid Description</string>
+    <string name="qualificationerror">Enter valid Qualifications</string>
+    <string name="responsibilitieserror">Enter valid Responsibilities</string>
+    <string name="locationerror">Enter valid Location</string>
+    <string name="applydateerror">Enter valid Date</string>
+
+
+</resources>

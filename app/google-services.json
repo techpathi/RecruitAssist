@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "165727999717",
+    "firebase_url": "https://project-june-2018.firebaseio.com",
+    "project_id": "project-june-2018",
+    "storage_bucket": "project-june-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165727999717:android:283b824fa29e72cb",
+        "android_client_info": {
+          "package_name": "com.techpathi.rbassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165727999717-k79hjv61i9ukf949lbbtg2kt3914ughv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathi.rbassist",
+            "certificate_hash": "c91df33979fc10694bc554e7f9df44d2a5c16773"
+          }
+        },
+        {
+          "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBZhvbVjlZfwi403VbWsgdGM1ayHV5n8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165727999717:android:b71142c6314dd16f",
+        "android_client_info": {
+          "package_name": "com.techpathi.recruitbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165727999717-semclfc462680h64bupkcrm0mhd2ihhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpathi.recruitbuddy",
+            "certificate_hash": "c91df33979fc10694bc554e7f9df44d2a5c16773"
+          }
+        },
+        {
+          "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBZhvbVjlZfwi403VbWsgdGM1ayHV5n8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165727999717-hjpa26g5vjvi5mkomvgvoltd41kj6k22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
